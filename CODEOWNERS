@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @kiyogit11
+/src/backend/database.py      @kiyogit11
+/src/backend/routers/auth.py  @kiyogit11
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @kiyogit11
